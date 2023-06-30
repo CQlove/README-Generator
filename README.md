@@ -5,7 +5,7 @@ This is a simple readme generator that will generate a README.md file with node 
 ## Table of Contents
 
 - [User-story](#user-story)
-- [Acceptance-Criteria]（#Acceptance-Criteria）
+- [Acceptance-Criteria]（#Acceptance Criteria）
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -40,12 +40,16 @@ THEN I am taken to the corresponding section of the README
 
 ## Description
 
-This is a project that can help other poeple to create a professional README.md file by mainly using node.js.
+This is a project that can help other people to create a professional README.md file by mainly using node.js.
 
 ## Installation
 
-Open the index.js in Node, after answering all the questions, you will get a README.md file. You can skip the question by hit enter.
+Open the index.js in Node, after answering all the questions, you will get a README.md file. You can skip the question by hitting enter.
 
 ## Usage
 
-[Click here to view the video](./README.md-video.mp4)
+
+
+
+https://github.com/CQlove/README-Generator/assets/128104973/00e29f56-0c93-4f98-ac50-7ec2ef33b1da
+
