@@ -5,7 +5,7 @@ This is a simple readme generator that will generate a README.md file with node 
 ## Table of Contents
 
 - [User-story](#user-story)
-- [Acceptance-Criteria]（#Acceptance Criteria）
+- [Acceptance-Criteria](#acceptance-criteria)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
